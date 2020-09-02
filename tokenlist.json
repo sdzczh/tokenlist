@@ -1,0 +1,24 @@
+{
+"name": "CAKE",
+"logoURI": "https://i.loli.net/2020/09/02/3eMAXO7dZI4QWHs.png",
+"keywords": [
+"defi",
+"CAKE",
+"yield"
+],
+"timestamp": "2020-09-01T01:40:34.305Z",
+"tokens": [
+{
+"chainId": 1,
+"address": "0x759b0eb08ffaffef2215ac9865483b5e97a1f23c",
+"name": "CAKE",
+"symbol": "CAKE",
+"decimals": 18
+}
+],
+"version": {
+"major": 0,
+"minor": 0,
+"patch": 0
+}
+}
