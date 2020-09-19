@@ -1,18 +1,18 @@
 {
-  "name": "etct",
+  "name": "btct",
   "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo640x425/public/images/2018-10/20181009144540_538502.jpg",
   "keywords": [
       "defi",
-      "etct",
+      "btct",
       "yield"
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 1,
-      "address": "0x312b8f9859366203fcb1aac756335ff0fcfec411",
-      "name": "etct",
-      "symbol": "etct",
+      "address": "0xfe59e433617f35e04361a811bbb8424f455c84e3",
+      "name": "btct",
+      "symbol": "btct",
       "decimals": 18,
       "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo640x425/public/images/2018-10/20181009144540_538502.jpg"
       }
