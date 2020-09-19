@@ -1,0 +1,25 @@
+{
+  "name": "btct",
+  "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo640x425/public/images/2018-10/20181009144540_538502.jpg",
+  "keywords": [
+      "defi",
+      "btct",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xfe59e433617f35e04361a811bbb8424f455c84e3",
+      "name": "btct",
+      "symbol": "btct",
+      "decimals": 18,
+      "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo640x425/public/images/2018-10/20181009144540_538502.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
