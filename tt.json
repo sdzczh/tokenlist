@@ -1,18 +1,18 @@
 {
-  "name": "TT",
+  "name": "etct",
   "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo640x425/public/images/2018-10/20181009144540_538502.jpg",
   "keywords": [
       "defi",
-      "TT",
+      "etct",
       "yield"
     ],
     "timestamp": "2020-09-01T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 1,
-      "address": "0xe1c65868fff15f139cdf34004c3de742b3b639e5",
-      "name": "TT",
-      "symbol": "TT",
+      "address": "0x312b8f9859366203fcb1aac756335ff0fcfec411",
+      "name": "etct",
+      "symbol": "etct",
       "decimals": 18,
       "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo640x425/public/images/2018-10/20181009144540_538502.jpg"
       }
