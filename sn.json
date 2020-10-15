@@ -1,0 +1,25 @@
+{
+  "name": "Super Nova Chain",
+  "logoURI": "https://s1.ax1x.com/2020/10/15/07yatK.png",
+  "keywords": [
+      "defi",
+      "SN",
+      "yield"
+    ],
+    "timestamp": "2020-10-15T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x0463746d0d30d7dbc7884d60de75bb615c90f65c",
+      "name": "Super Nova Chain ",
+      "symbol": "SN",
+      "decimals": 18,
+      "logoURI": "https://s1.ax1x.com/2020/10/15/07yatK.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
