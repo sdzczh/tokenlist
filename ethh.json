@@ -1,0 +1,25 @@
+{
+  "name": "Ethereum2",
+  "logoURI": "https://s1.ax1x.com/2020/10/31/BaOjOA.jpg",
+  "keywords": [
+      "defi",
+      "ETHH",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xd52c17832fd55564415ffefc1cea35b948033e2d",
+      "name": "ETHH",
+      "symbol": "ETHH",
+      "decimals": 18,
+      "logoURI": "https://s1.ax1x.com/2020/10/31/BaOjOA.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
