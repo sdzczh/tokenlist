@@ -1,0 +1,25 @@
+{
+  "name": "JYT",
+  "logoURI": "https://s1.ax1x.com/2020/11/03/Bs9wRJ.jpg",
+  "keywords": [
+      "defi",
+      "JYT",
+      "yield"
+    ],
+    "timestamp": "2020-10-17T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x00e84b77ec5e9b7c696fe1d4657b322315cc7e2e",
+      "name": "JYT",
+      "symbol": "JYT",
+      "decimals": 18,
+      "logoURI": "https://s1.ax1x.com/2020/11/03/Bs9wRJ.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
